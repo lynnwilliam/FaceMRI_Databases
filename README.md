@@ -9,9 +9,13 @@ The public databases can be downloaded here
 https://facemri.com/github.htm
 
 **Current Available Databases**
+
 FFHQ Face Database
+
 CelebA Face Database
+
 FairFace Database
+
 Please open a Pull-Request if you want to add more databases.
 
 **Requirements**
