@@ -1,6 +1,8 @@
 # FaceMRI
 FaceMRI is a Face/Person database program, that can handle projects of 1 Million faces.
 
+![alt text](http://facemri.com/img/ukt.png)
+
 # FaceMRI_Databases
 A collection of Public Face Databases that have been imported into the FaceMRI Application with annotations.
 You can download FaceMRI Windows and Mac application from facemri.com.
