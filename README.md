@@ -1,5 +1,6 @@
 # FaceMRI
 FaceMRI is a Face/Person database program, that can handle projects of 1 Million faces.
+Here are database bases for researchers.
 
 ![alt text](http://facemri.com/img/utk.png)
 
@@ -22,11 +23,12 @@ Please open a Pull-Request if you want to add more databases.
 
 **Requirements**
 1. must have FaceMRI Application Version 37 or later
-2. an account with FaceMRI, you can create a free account when runnning the application
+2. Download FaceMRI from 
     https://facemri.com/download.htm
-3. Download the Facebase you require and unzip that into the /<<user/home/facemri/projects/
+4. Login using ""facedatabase@facemri.com" "Password784512"
+5. Download the Facebase you require and unzip that into the /<<user/home/facemri/projects/
 you should see something like
 /<<user/home/facemri/projects/People_173349
-4. DO NOT RENAME the folder name
-5. The folder name doesn't correspond to the facedatabase, but when you launch FaceMRI it will pick up the public database and you use it.
-6. You can use these public databases for research and non commmerical use, each of the databases has different licenses so please read these.
+6. DO NOT RENAME the folder name
+7. The folder name doesn't correspond to the facedatabase, but when you launch FaceMRI it will pick up the public database and you use it.
+8. You can use these public databases for research and non commmerical use, each of the databases has different licenses so please read these.
